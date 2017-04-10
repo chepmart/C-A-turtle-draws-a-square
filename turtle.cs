@@ -14,14 +14,12 @@ namespace SquareDraw
         {
             var len = 75;
             Turtle.Speed = 5;
-
             Square(len);
-
         }
 
         private static void Square(int len)
         {
-            for(int i=0; i<10; i++)
+            for(int i=0; i<100; i++)
             {
                 Turtle.Move(len);
                 Turtle.Turn(90);
@@ -31,9 +29,6 @@ namespace SquareDraw
                 Turtle.Turn(90);
                 Turtle.Move(len);
             }
-
-           
-       
         }
     }
 }
