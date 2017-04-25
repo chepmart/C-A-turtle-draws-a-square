@@ -1,0 +1,8 @@
+D:\Matvey\Work\Informatik\C#\SquareDraw\SquareDraw\bin\Debug\SquareDraw.exe.config
+D:\Matvey\Work\Informatik\C#\SquareDraw\SquareDraw\bin\Debug\SquareDraw.exe
+D:\Matvey\Work\Informatik\C#\SquareDraw\SquareDraw\bin\Debug\SquareDraw.pdb
+D:\Matvey\Work\Informatik\C#\SquareDraw\SquareDraw\bin\Debug\SmallBasicLibrary.dll
+D:\Matvey\Work\Informatik\C#\SquareDraw\SquareDraw\bin\Debug\SmallBasicLibrary.xml
+D:\Matvey\Work\Informatik\C#\SquareDraw\SquareDraw\obj\Debug\SquareDraw.csprojResolveAssemblyReference.cache
+D:\Matvey\Work\Informatik\C#\SquareDraw\SquareDraw\obj\Debug\SquareDraw.exe
+D:\Matvey\Work\Informatik\C#\SquareDraw\SquareDraw\obj\Debug\SquareDraw.pdb
